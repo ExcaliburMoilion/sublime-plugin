@@ -1,0 +1,17 @@
+配置sublime主题
+整体外观
+Prefenerce->color Schema->default  monokai
+1.Theme - Nexus
+  设置主题显示
+  Prefenerce->Setting-Users
+  {
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"font_size": 14.0,
+	"ignored_packages":
+	[
+		"JsFormat",
+		"Vintage"
+	],
+	"theme": "Nexus.sublime-theme"
+}
+
